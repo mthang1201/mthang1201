@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=mthang1201&style=for-the-badge)
 <br>
 
-# Hey there, it's a pleasure to meet you! 👋
+# Hello there 👋. My name is Minh Thang.
 
 ### About Me
 I’m currently majoring in Computer Network & Communication at University of Engineering and Technology, VNU.
 
-### Experience
-I have one completed project.
+<!--### Experience
+I have one completed project.-->
 
 
 <br>
