@@ -21,7 +21,7 @@ My toolkit includes:
 - C++
 - Java
 
-### Frameworks/Libraries: 
+<!--### Frameworks/Libraries: -->
 
 ### Tools & Platforms: 
 - Visual Studio
