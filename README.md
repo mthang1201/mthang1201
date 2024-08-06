@@ -1,16 +1,46 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=mthang1201&style=for-the-badge)
+<br>
 
-<!--
-**mthang1201/mthang1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there, it's a pleasure to meet you! 👋
 
-Here are some ideas to get you started:
+### About Me
+I am a student.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+I have one completed project.
+
+
+<br>
+
+
+
+## 🛠️ Technologies & Skills
+My toolkit includes:
+
+ #### Languages 
+- C++
+- Java
+
+### Frameworks/Libraries: 
+
+### Tools & Platforms: 
+- Visual Studio
+- IntelliJ IDEA
+
+
+<br>
+
+### 🌱 Continuous Learning
+In this ever-evolving field, I believe in the power of continuous learning and adaptation. I regularly dedicate time to exploring new technologies, participating in coding challenges, and attending online workshops. This commitment to growth ensures that I'm always equipped with the latest knowledge and best practices to tackle any project.
+
+### 🤝 Let's Connect
+I'm always on the lookout for new challenges and opportunities to collaborate on exciting projects. Feel free to reach out to me.
+
+<div id="badges" align="center">
+  <br>
+  <a href="mailto:mthang1201@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
+  </a>
+</div>
+
+<br>
