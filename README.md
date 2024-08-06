@@ -4,7 +4,7 @@
 # Hey there, it's a pleasure to meet you! 👋
 
 ### About Me
-I am a student.
+I’m currently majoring in Computer Network & Communication at University of Engineering and Technology, VNU.
 
 ### Experience
 I have one completed project.
