@@ -4,7 +4,7 @@
 # Hello there 👋. My name is Minh Thang.
 
 ### About Me
-I’m currently majoring in Computer Network & Communication at University of Engineering and Technology, VNU.
+Passionate about software development and proficient in Java and C++. Ability to communicate effectively both verbally and in writing. Proven leadership skills.
 
 <!--### Experience
 I have one completed project.-->
